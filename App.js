@@ -5,10 +5,11 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={{
-        color:'red',
+        color:'black',
         fontWeight:'bold',
         fontSize:32
       }}>My name is Indiya and i am a React Native Developer!</Text>
+      <Text>Hello world</Text>
     <StatusBar style="auto" />
     </View>
   );
